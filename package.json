@@ -1,6 +1,6 @@
 {
   "name": "rn-pedometer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Native Pedometer.",
   "main": "index.js",
   "scripts": {
