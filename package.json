@@ -1,0 +1,45 @@
+{
+  "name": "rn-pedometer",
+  "version": "0.0.1",
+  "description": "React Native Pedometer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsnavarroc/react-native-universal-pedometer.git"
+  },
+  "keywords": ["react", "native", "universal", "pedometer", "generic", "rn", "rn-pedometer"],
+  "author": "Community React Native",
+  "contributors": [
+    {
+      "name": "Johan Navarro",
+      "email": "21sebas12@gmail.com"
+    },
+    {
+      "name": "Cesar Aguirre",
+      "email": "caguirre@ias.com.co"
+    },
+    {
+      "name": "Matheus Mariano",
+      "email": "vmatheus.mariano@gmail.com"
+    },
+    {
+      "name": "Raí Siqueira",
+      "email": "me@raisiqueira.dev"
+    },
+    {
+      "name": "Vadim Patsev",
+      "email": "basvasilich@yandex.ru"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsnavarroc/react-native-universal-pedometer"
+  },
+  "homepage": "https://github.com/jsnavarroc/react-native-universal-pedometer/blob/master/README.md", 
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  }
+}
