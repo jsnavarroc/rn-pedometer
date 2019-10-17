@@ -1,4 +1,4 @@
-package com.emesonsantana.BMDPedometer;
+package com.community.BMDPedometer;
 
 import java.util.Arrays;
 import java.util.ArrayList;

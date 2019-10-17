@@ -1,4 +1,4 @@
-package com.emesonsantana.BMDPedometer;
+package com.community.BMDPedometer;
 
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.Callback;

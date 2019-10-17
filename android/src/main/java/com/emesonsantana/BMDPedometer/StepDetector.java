@@ -14,7 +14,7 @@
  * the License.
  */
 
-package com.emesonsantana.BMDPedometer;
+package com.community.BMDPedometer;
 
 /**
  * Receives sensor updates and alerts a StepListener when a step has been detected.
