@@ -5,17 +5,17 @@ React Native pedometer support for iOS version 8.0 and higher and Android. The m
 ## Install
 
 ```sh
-npm install --save npm i @asserdata/react-native-universal-pedometer
+npm install --save npm i rn-pedometer
 # Or
 
-yarn add @asserdata/react-native-universal-pedometer
+yarn add rn-pedometer
 ```
 
 ## Basic usage
 
 ```js
 // Import the react-native-pedometer module
-import Pedometer from '@asserdata/react-native-universal-pedometer';
+import Pedometer from 'rn-pedometer';
 
 // determine pedometer availability
 Pedometer.isStepCountingAvailable((error, isAvailable) => {
