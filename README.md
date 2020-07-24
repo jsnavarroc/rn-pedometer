@@ -14,7 +14,7 @@ yarn add rn-pedometer
 
 ```
 
-then make sure it is well **linked** with android, for this you can run
+then make sure it is well **linked**, for this you can run
 ```sh
 yarn react-native link rn-pedometer  
   
