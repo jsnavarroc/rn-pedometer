@@ -5,11 +5,24 @@ React Native pedometer support for iOS version 8.0 and higher and Android. The m
 ## Install
 
 ```sh
+
 npm install --save npm i rn-pedometer
+
 # Or
 
 yarn add rn-pedometer
+
 ```
+
+then make sure it is well **linked** with android, for this you can run
+```sh
+yarn react-native link rn-pedometer  
+  
+# Or
+
+npx react-native link
+```
+more information [here](https://reactnative.dev/docs/linking-libraries-ios)
 
 ## Basic usage
 
